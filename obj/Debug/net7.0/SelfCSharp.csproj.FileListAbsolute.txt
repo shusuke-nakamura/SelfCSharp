@@ -1,0 +1,15 @@
+/home/shusuke/work/SelfCSharp/bin/Debug/net7.0/SelfCSharp
+/home/shusuke/work/SelfCSharp/bin/Debug/net7.0/SelfCSharp.deps.json
+/home/shusuke/work/SelfCSharp/bin/Debug/net7.0/SelfCSharp.runtimeconfig.json
+/home/shusuke/work/SelfCSharp/bin/Debug/net7.0/SelfCSharp.dll
+/home/shusuke/work/SelfCSharp/bin/Debug/net7.0/SelfCSharp.pdb
+/home/shusuke/work/SelfCSharp/obj/Debug/net7.0/SelfCSharp.csproj.AssemblyReference.cache
+/home/shusuke/work/SelfCSharp/obj/Debug/net7.0/SelfCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/shusuke/work/SelfCSharp/obj/Debug/net7.0/SelfCSharp.AssemblyInfoInputs.cache
+/home/shusuke/work/SelfCSharp/obj/Debug/net7.0/SelfCSharp.AssemblyInfo.cs
+/home/shusuke/work/SelfCSharp/obj/Debug/net7.0/SelfCSharp.csproj.CoreCompileInputs.cache
+/home/shusuke/work/SelfCSharp/obj/Debug/net7.0/SelfCSharp.dll
+/home/shusuke/work/SelfCSharp/obj/Debug/net7.0/refint/SelfCSharp.dll
+/home/shusuke/work/SelfCSharp/obj/Debug/net7.0/SelfCSharp.pdb
+/home/shusuke/work/SelfCSharp/obj/Debug/net7.0/SelfCSharp.genruntimeconfig.cache
+/home/shusuke/work/SelfCSharp/obj/Debug/net7.0/ref/SelfCSharp.dll

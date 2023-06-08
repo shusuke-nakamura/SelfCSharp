@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[csharp]": {
+			"editor.maxTokenizationLineLength": 2500,
+			"editor.formatOnSave": true,
+		}
+	}
+}
