@@ -5,7 +5,11 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <!--
     <StartupObject>SelfCSharp.Chap01.PersonClient</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.Const</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap02.StringVariable</StartupObject>
   </PropertyGroup>
 
 </Project>
