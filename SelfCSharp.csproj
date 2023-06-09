@@ -8,8 +8,12 @@
     <!--
     <StartupObject>SelfCSharp.Chap01.PersonClient</StartupObject>
     <StartupObject>SelfCSharp.Chap02.Const</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap02.StringVariable</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.TransBad</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.CastBad</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.Parse</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap02.ToString</StartupObject>
   </PropertyGroup>
 
 </Project>
