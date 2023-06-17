@@ -24,8 +24,13 @@
     <StartupObject>SelfCSharp.Chap02.ArrayJag</StartupObject>
     <StartupObject>SelfCSharp.Chap02.ArrayLength</StartupObject>
     <StartupObject>SelfCSharp.Chap02.Practice.Practice1</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap02.Practice.Practice3</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.CalcNoNumber</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.ConcatString</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.ConcatBuilder</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.Increment</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap03.CalcDivZero</StartupObject>
   </PropertyGroup>
 
 </Project>
