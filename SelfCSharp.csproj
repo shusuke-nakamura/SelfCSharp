@@ -18,8 +18,10 @@
     <StartupObject>SelfCSharp.Chap02.NullableCalc</StartupObject>
     <StartupObject>SelfCSharp.Chap02.NullAllow</StartupObject>
     <StartupObject>SelfCSharp.Chap02.NullForgive</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap02.ArrayRange</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.ArrayMulti</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap02.ArrayJag</StartupObject>
   </PropertyGroup>
 
 </Project>
