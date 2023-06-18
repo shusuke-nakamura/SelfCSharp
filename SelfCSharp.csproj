@@ -29,8 +29,9 @@
     <StartupObject>SelfCSharp.Chap03.ConcatString</StartupObject>
     <StartupObject>SelfCSharp.Chap03.ConcatBuilder</StartupObject>
     <StartupObject>SelfCSharp.Chap03.Increment</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap03.CalcDivZero</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap03.CalcDecimal</StartupObject>
   </PropertyGroup>
 
 </Project>
