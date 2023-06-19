@@ -30,8 +30,12 @@
     <StartupObject>SelfCSharp.Chap03.ConcatBuilder</StartupObject>
     <StartupObject>SelfCSharp.Chap03.Increment</StartupObject>
     <StartupObject>SelfCSharp.Chap03.CalcDivZero</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap03.CalcDecimal</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.Substitution</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.CompareStringBuilder</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.CompareString</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap03.CompareDouble</StartupObject>
   </PropertyGroup>
 
 </Project>
