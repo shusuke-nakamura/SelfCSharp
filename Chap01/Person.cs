@@ -28,7 +28,7 @@ namespace SelfCSharp.Chap01
 
     internal class PersonClient
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             var p = new Person();
             p.firstName = "太郎";

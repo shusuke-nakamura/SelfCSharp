@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap02
 {
     internal class ArrayRange
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             var list = new[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
             Console.WriteLine(string.Join(" ", list[1..3]));

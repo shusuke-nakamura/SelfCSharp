@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap02.Practice
 {
     internal class PCast
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             long m = 10;
             int i = (int)m;

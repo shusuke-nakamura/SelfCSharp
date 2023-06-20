@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap03
 {
     internal class CompareString
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             string data = "123";
             int data2 = 123;

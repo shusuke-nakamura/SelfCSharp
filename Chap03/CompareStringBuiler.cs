@@ -4,7 +4,7 @@ namespace SelfCSharp.Chap03
 {
     internal class CompareStringBuilder
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             var builder1 = new StringBuilder("あいう");
             var builder2 = new StringBuilder("あいう");

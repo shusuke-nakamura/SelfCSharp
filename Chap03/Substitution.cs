@@ -4,7 +4,7 @@ namespace SelfCSharp.Chap03
 {
     internal class Substitution
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             var x = 1;
             var y = x;

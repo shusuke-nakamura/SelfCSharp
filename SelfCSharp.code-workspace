@@ -8,6 +8,8 @@
 		"[csharp]": {
 			"editor.maxTokenizationLineLength": 2500,
 			"editor.formatOnSave": true,
-		}
+			"editor.defaultFormatter": "ms-dotnettools.csharp"
+		},
+		"dotnet.defaultSolution": "SelfCSharp.sln"
 	}
 }

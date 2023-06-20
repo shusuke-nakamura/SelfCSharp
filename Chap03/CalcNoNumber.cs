@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap03
 {
     internal class CalcNoNumber
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             Console.WriteLine(1 + 2);
             Console.WriteLine("a" + 5);

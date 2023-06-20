@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap02
 {
     internal class ArrayLength
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             var multi = new[,]{
                 {10, 11, 12},

@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap03
 {
     internal class ConcatString
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             var start = DateTime.Now;
             var result = "";

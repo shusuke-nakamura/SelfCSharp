@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap03
 {
     internal class Increment
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             var i = 3;
             var j = ++i;

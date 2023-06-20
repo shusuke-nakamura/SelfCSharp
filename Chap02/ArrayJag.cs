@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap02
 {
     internal class ArrayJag
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             // int[][] data = new int[3][];
             var data = new int[3][];

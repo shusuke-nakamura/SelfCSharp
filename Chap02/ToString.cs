@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap02
 {
     internal class ToString
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             int i = 13;
             double d = 1.23;

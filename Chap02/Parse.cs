@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap02
 {
     internal class Parse
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             Console.WriteLine(Int32.Parse("108"));
             Console.WriteLine(Single.Parse("0.1413"));

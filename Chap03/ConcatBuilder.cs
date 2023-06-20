@@ -4,7 +4,7 @@ namespace SelfCSharp.Chap03
 {
     internal class ConcatBuilder
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             var start = DateTime.Now;
             var builder = new StringBuilder();

@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap03.practice
 {
     internal class PCondition
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             string value = "こんにちは";
             Console.WriteLine(value != null ? value : "既定値");

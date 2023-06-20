@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap03
 {
     internal class Shortcut
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             // string? str = null;
             string str = "https://wings.msn.to/";

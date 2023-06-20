@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap03
 {
     internal class CompareArray
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             var data1 = new[] { "い", "ろ", "は" };
             var data2 = new[] { "い", "ろ", "は" };

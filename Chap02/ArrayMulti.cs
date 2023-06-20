@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap02
 {
     internal class ArrayMulti
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             // int[,] data = {
             //     {10, 11, 12},

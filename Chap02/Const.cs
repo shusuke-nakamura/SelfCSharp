@@ -2,7 +2,7 @@ namespace SelfCSharp.Chap02
 {
     internal class Const
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             const double Tax = 1.1;
             int price = 1000;
