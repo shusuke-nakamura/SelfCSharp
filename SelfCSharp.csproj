@@ -38,8 +38,9 @@
     <StartupObject>SelfCSharp.Chap03.CompareArray</StartupObject>
     <StartupObject>SelfCSharp.Chap03.Condition</StartupObject>
     <StartupObject>SelfCSharp.Chap03.ConditionNull</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap03.practice.PCondition</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap03.Shortcut</StartupObject>
   </PropertyGroup>
 
 </Project>
