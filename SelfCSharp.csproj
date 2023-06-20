@@ -34,8 +34,12 @@
     <StartupObject>SelfCSharp.Chap03.Substitution</StartupObject>
     <StartupObject>SelfCSharp.Chap03.CompareStringBuilder</StartupObject>
     <StartupObject>SelfCSharp.Chap03.CompareString</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap03.CompareDouble</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.CompareArray</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.Condition</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.ConditionNull</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap03.practice.PCondition</StartupObject>
   </PropertyGroup>
 
 </Project>
