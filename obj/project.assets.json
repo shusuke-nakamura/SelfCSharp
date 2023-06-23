@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/asdf/installs/dotnet/7.0.302/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/asdf/installs/dotnet/7.0.304/sdk/7.0.304/RuntimeIdentifierGraph.json"
       }
     }
   }

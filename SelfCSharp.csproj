@@ -48,8 +48,11 @@
     <StartupObject>SelfCSharp.Chap03.practice.Practice3</StartupObject>
     <StartupObject>SelfCSharp.Chap04.IfBasic</StartupObject>
     <StartupObject>SelfCSharp.Chap04.IfBasic2</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap04.IfElse</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfElse2</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfNest</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap04.IfOmit</StartupObject>
   </PropertyGroup>
 
 </Project>
