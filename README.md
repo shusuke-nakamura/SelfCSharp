@@ -1,5 +1,8 @@
 # SelfCSharp
 
+## vscode CS0101エラーが出た場合、以下のコマンドパレットより以下を実施する。
+### Restart OmniSharp
+
 ## ソリューションの作成
 ### コマンド dotnet new sln
 

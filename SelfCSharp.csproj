@@ -55,8 +55,17 @@
     <StartupObject>SelfCSharp.Chap04.IfOmit2</StartupObject>
     <StartupObject>SelfCSharp.Chap04.IfOmit3</StartupObject>
     <StartupObject>SelfCSharp.Chap04.SwitchPre</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap04.SwitchBasic</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.SwitchFall</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.SwitchType</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.SwitchWhen</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.SwitchExp</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.SwitchExpWhen</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.practice.PIf</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.WhileBasic</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.WhileDo</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap04.WhileOmit</StartupObject>
   </PropertyGroup>
 
 </Project>

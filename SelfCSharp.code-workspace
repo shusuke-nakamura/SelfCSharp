@@ -10,6 +10,6 @@
 			"editor.formatOnSave": true,
 			"editor.defaultFormatter": "ms-dotnettools.csharp"
 		},
-		"dotnet.defaultSolution": "SelfCSharp.sln"
+		// "dotnet.defaultSolution": "SelfCSharp.sln"
 	}
 }
