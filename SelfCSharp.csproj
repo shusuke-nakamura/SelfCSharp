@@ -51,8 +51,12 @@
     <StartupObject>SelfCSharp.Chap04.IfElse</StartupObject>
     <StartupObject>SelfCSharp.Chap04.IfElse2</StartupObject>
     <StartupObject>SelfCSharp.Chap04.IfNest</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap04.IfOmit</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfOmit2</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfOmit3</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.SwitchPre</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap04.SwitchBasic</StartupObject>
   </PropertyGroup>
 
 </Project>
