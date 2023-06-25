@@ -77,8 +77,13 @@
     <StartupObject>SelfCSharp.Chap04.Break</StartupObject>
     <StartupObject>SelfCSharp.Chap04.Continue</StartupObject>
     <StartupObject>SelfCSharp.Chap04.BreakNest</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap04.practice.PContinue</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Goto</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.GotoNest</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.GotoSwitch</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.PreIf</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap04.PreRegion</StartupObject>
   </PropertyGroup>
 
 </Project>
