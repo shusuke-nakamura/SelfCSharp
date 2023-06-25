@@ -64,8 +64,12 @@
     <StartupObject>SelfCSharp.Chap04.practice.PIf</StartupObject>
     <StartupObject>SelfCSharp.Chap04.WhileBasic</StartupObject>
     <StartupObject>SelfCSharp.Chap04.WhileDo</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap04.WhileOmit</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.ForBasic</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.ForBad</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.ForFloat</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap04.ForBlock</StartupObject>
   </PropertyGroup>
 
 </Project>
