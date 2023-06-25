@@ -73,8 +73,12 @@
     <StartupObject>SelfCSharp.Chap04.ForeachFor</StartupObject>
     <StartupObject>SelfCSharp.Chap04.Foreach</StartupObject>
     <StartupObject>SelfCSharp.Chap04.CommandArgs</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap04.practice.PFor</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Break</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Continue</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.BreakNest</StartupObject>
+    -->
+    <StartupObject>SelfCSharp.Chap04.practice.PContinue</StartupObject>
   </PropertyGroup>
 
 </Project>
