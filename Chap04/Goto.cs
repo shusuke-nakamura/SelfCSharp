@@ -5,7 +5,7 @@ namespace SelfCSharp.Chap04
         static void Main(string[] args)
         {
             goto THERE;
-            Console.WriteLine("ここはスキップされます。");
+        // Console.WriteLine("ここはスキップされます。");
         THERE:
             Console.WriteLine("コードが終了しました。");
         }
