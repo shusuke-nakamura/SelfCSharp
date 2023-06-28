@@ -85,8 +85,19 @@
     <StartupObject>SelfCSharp.Chap04.PreRegion</StartupObject>
     <StartupObject>SelfCSharp.Chap04.practice.Practice2</StartupObject>
     <StartupObject>SelfCSharp.Chap04.practice.Practice4</StartupObject>
-    -->
     <StartupObject>SelfCSharp.Chap04.practice.Practice5</StartupObject>
+    <StartupObject>SelfCSharp.Chap05.StrLength</StartupObject>
+    <StartupObject>SelfCSharp.Chap05.StrInfoLength</StartupObject>
+    <StartupObject>SelfCSharp.Chap05.StrCompare</StartupObject>
+    <StartupObject>SelfCSharp.Chap05.StrGlobalCompare</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.StrEmpty</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.StrIndex</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.StrContains</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.StrAny</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.StrAll</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.StrSubstring</StartupObject>  
+    -->
+    <StartupObject>SelfCSharp.Chap05.StrFor</StartupObject>  
   </PropertyGroup>
 
 </Project>
