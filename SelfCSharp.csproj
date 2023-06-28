@@ -96,8 +96,12 @@
     <StartupObject>SelfCSharp.Chap05.StrAny</StartupObject>  
     <StartupObject>SelfCSharp.Chap05.StrAll</StartupObject>  
     <StartupObject>SelfCSharp.Chap05.StrSubstring</StartupObject>  
-    -->
     <StartupObject>SelfCSharp.Chap05.StrFor</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.StrSplit</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.StrFormat</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.practice.PSubstr</StartupObject>  
+    -->
+    <StartupObject>SelfCSharp.Chap05.practice.PSplit</StartupObject>  
   </PropertyGroup>
 
 </Project>
