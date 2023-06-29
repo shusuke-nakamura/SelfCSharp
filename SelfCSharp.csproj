@@ -100,8 +100,12 @@
     <StartupObject>SelfCSharp.Chap05.StrSplit</StartupObject>  
     <StartupObject>SelfCSharp.Chap05.StrFormat</StartupObject>  
     <StartupObject>SelfCSharp.Chap05.practice.PSubstr</StartupObject>  
-    -->
     <StartupObject>SelfCSharp.Chap05.practice.PSplit</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.RegleMatch</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.RegMatch</StartupObject>  
+    <StartupObject>SelfCSharp.Chap05.RegMatches</StartupObject>  
+    -->
+    <StartupObject>SelfCSharp.Chap05.RegIgnore</StartupObject>  
   </PropertyGroup>
 
 </Project>
